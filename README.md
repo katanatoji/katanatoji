@@ -1,5 +1,4 @@
 ![MasterHead](https://github.com/katanatoji/katanatoji/raw/main/img/mrcbannergithubv1.png)
-![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&pause=1000&color=FFE4DD&background=000000DA&center=true&vCenter=true&width=435&lines=I'm+a+Full-Stack+Developer" alt="Typing SVG" /></a>
