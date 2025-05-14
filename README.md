@@ -1,9 +1,8 @@
 ![MasterHead](https://github.com/katanatoji/katanatoji/raw/main/img/mrcbannergithub.png)
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
+
 <div align="center">
- <a href="https://github.com/CagatayAkkas">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Çağatay+Akkaş+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
- </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&pause=1000&color=FFE4DD&background=000000DA&center=true&vCenter=true&width=435&lines=I'm+a+Full-Stack+Developer" alt="Typing SVG" /></a>
 </div>
 
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
